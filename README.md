@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Dylan Faure's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanFaure&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/DylanFaure/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanFaure&theme=dark)](https://github.com/DylanFaure/github-readme-stats)
+[![Dylan Faure's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanFaure&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/DylanFaure/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanFaure&theme=radical)](https://github.com/DylanFaure/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DylanFaure&theme=chalk)](https://github.com/DylanFaure/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DylanFaure&theme=radical)](https://github.com/DylanFaure/github-profile-trophy)
 
 <!--
 **DylanFaure/DylanFaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
